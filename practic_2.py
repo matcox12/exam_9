@@ -8,7 +8,7 @@ for i in range(1,11):
     print(f'{number} X {i} = {number * i}')
 
 #B
-number = int(input())
+number = int(input('Введите число'))
 maksimalnoe = 0
 # создаем цикл while(пока) если услвоие выполняется то продолжает выполнять
 while number != 0:

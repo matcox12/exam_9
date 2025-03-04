@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "client_id": "C001",
+        "user_id": "U001",
+        "category": "purchase",
+        "action": "buy",
+        "options": {
+            "item": "laptop",
+            "price": 1200.99
+        }
+    },
+    {
+        "id": 2,
+        "client_id": "C002",
+        "user_id": "U002",
+        "category": "navigation",
+        "action": "click",
+        "options": {
+            "page": "homepage"
+        }
+    },
+    {
+        "id": 3,
+        "client_id": "C001",
+        "user_id": "U003",
+        "category": "page",
+        "action": "contact",
+        "options": {
+            "issue": "login problem"
+        }
+    }
+]
